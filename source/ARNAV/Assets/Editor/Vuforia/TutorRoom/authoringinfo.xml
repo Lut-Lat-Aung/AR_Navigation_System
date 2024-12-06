@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-11.1985 -4.0793 -3.8330 10.7995 4.4373 17.0451" area="54" targetId="3133708963d9436e8e70965157ad6ec8" name="TutorRoom" pathAuthoring="3133708963d9436e8e70965157ad6ec8_authoring.glb" pathOcclusion="3133708963d9436e8e70965157ad6ec8_occlusion.3dt" pathNavMesh="3133708963d9436e8e70965157ad6ec8_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

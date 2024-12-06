@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-14.3628 -15.2309 -10.0692 19.2615 2.2593 9.9363" area="97" targetId="66b29a37be4547e9bdc3456ca139740e" name="TrueLab" pathAuthoring="66b29a37be4547e9bdc3456ca139740e_authoring.glb" pathOcclusion="66b29a37be4547e9bdc3456ca139740e_occlusion.3dt" pathNavMesh="66b29a37be4547e9bdc3456ca139740e_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

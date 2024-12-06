@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-20.0566 -1.2102 -18.7992 19.8546 10.6182 36.1229" area="163" targetId="f0fd038c9f4340b3b3bc11932127e3c7" name="allfloor" pathAuthoring="f0fd038c9f4340b3b3bc11932127e3c7_authoring.glb" pathOcclusion="f0fd038c9f4340b3b3bc11932127e3c7_occlusion.3dt" pathNavMesh="f0fd038c9f4340b3b3bc11932127e3c7_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

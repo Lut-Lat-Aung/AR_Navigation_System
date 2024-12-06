@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-22.2312 -3.7061 -26.3847 -3.9375 3.5094 -5.8635" area="45" targetId="333be2e987864cecbc6b4c2abec4f0b0" name="Mechatronic" pathAuthoring="333be2e987864cecbc6b4c2abec4f0b0_authoring.glb" pathOcclusion="333be2e987864cecbc6b4c2abec4f0b0_occlusion.3dt" pathNavMesh="333be2e987864cecbc6b4c2abec4f0b0_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

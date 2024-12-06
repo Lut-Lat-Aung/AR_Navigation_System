@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-7.6834 -14.2672 12.8545 29.8052 3.5661 34.0944" area="126" targetId="b63f27ce307845fca8af082cf1cbac41" name="Toilet-firstfloor" pathAuthoring="b63f27ce307845fca8af082cf1cbac41_authoring.glb" pathOcclusion="b63f27ce307845fca8af082cf1cbac41_occlusion.3dt" pathNavMesh="b63f27ce307845fca8af082cf1cbac41_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

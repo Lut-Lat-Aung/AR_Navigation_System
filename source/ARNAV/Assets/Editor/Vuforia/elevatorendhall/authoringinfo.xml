@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-13.7825 -3.0243 -7.1437 1.8351 4.2153 12.1626" area="33" targetId="91f2c12173344e3bb7f99cdf8411a757" name="elevatorendhall" pathAuthoring="91f2c12173344e3bb7f99cdf8411a757_authoring.glb" pathOcclusion="91f2c12173344e3bb7f99cdf8411a757_occlusion.3dt" pathNavMesh="91f2c12173344e3bb7f99cdf8411a757_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
