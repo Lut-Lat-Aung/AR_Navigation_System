@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "f26d20423488",
+        "mtime": 1731493840000,
+        "size": 139334874,
+        "localPath": "L:\\Vuforia\\AR-Nav\\ARNAV\\Packages\\com.ptc.vuforia.engine-10.28.4.tgz"
+      }
+    }
+  }
+}
