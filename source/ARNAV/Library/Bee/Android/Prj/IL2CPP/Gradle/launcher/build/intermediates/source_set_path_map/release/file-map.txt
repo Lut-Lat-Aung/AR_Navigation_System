@@ -1,0 +1,11 @@
+com.DefaultCompany.ARNAV.launcher-jetified-VuforiaEngine-0 C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\res
+com.DefaultCompany.ARNAV.launcher-jetified-core-1.36.0-1 C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\res
+com.DefaultCompany.ARNAV.launcher-pngs-2 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.ARNAV.launcher-resValues-3 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.ARNAV.launcher-rs-4 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.ARNAV.launcher-mergeReleaseResources-5 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.ARNAV.launcher-mergeReleaseResources-6 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.ARNAV.launcher-merged_res-7 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.ARNAV.launcher-main-8 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.ARNAV.launcher-release-9 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.ARNAV.launcher-packaged_res-10 L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release

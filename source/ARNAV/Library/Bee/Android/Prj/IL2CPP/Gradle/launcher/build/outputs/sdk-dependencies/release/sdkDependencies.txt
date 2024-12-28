@@ -1,0 +1,59 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.google.ar"
+    artifactId: "core"
+    version: "1.36.0"
+  }
+  digests {
+    sha256: "\034\231\333\267\301Jg\243\341W\344]\004tL\254t\204\321\361\257\332\316V\316?G\301\"\223_\237"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation"
+    version: "1.3.0"
+  }
+  digests {
+    sha256: "\227\334E\257\357\343\241\344!\332B\270\266\351\371\004\221G|E\374ax >:^\212\005\356\205S"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    artifactId: "VuforiaEngine"
+  }
+  digests {
+    sha256: "\367\360\353\252kF\363\352\022\210\265>\023\\}\367}\220]h\002[\305\006\334\305\233\202\"f\345\214"
+  }
+}
+library {
+  digests {
+    sha256: "\225\032\020\204bLS\1778\245l\030\355y\b[\364G\245\n\317\355\222\201\241>\246\306\304\350H\346"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 2
+  dependency_index: 3
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

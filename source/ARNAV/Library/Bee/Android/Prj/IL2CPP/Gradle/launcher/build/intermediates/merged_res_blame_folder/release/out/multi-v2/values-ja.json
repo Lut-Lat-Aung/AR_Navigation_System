@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.ARNAV.launcher-mergeReleaseResources-5:/values-ja/values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lut Lat Aung\\.gradle\\caches\\transforms-3\\d5e017fbc646108d278d9d065862a3b2\\transformed\\jetified-core-1.36.0\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,281,378,478",
+                        "endColumns": "45,44,96,99,80",
+                        "endOffsets": "235,280,377,477,558"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,154,255,359",
+                        "endColumns": "49,48,100,103,84",
+                        "endOffsets": "100,149,250,354,439"
+                    }
+                }
+            ]
+        }
+    ]
+}

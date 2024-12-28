@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="26" />
+6-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.CAMERA" />
+8-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-63
+8-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-60
+9
+10    <uses-feature android:glEsVersion="0x00030000" />
+10-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+10-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+11    <uses-feature
+11-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+12        android:name="android.hardware.vulkan.version"
+12-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+13        android:required="false" />
+13-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+14    <uses-feature
+14-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-83
+15        android:name="android.hardware.camera"
+15-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-55
+16        android:required="false" />
+16-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:56-80
+17    <uses-feature
+17-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-93
+18        android:name="android.hardware.camera.autofocus"
+18-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-65
+19        android:required="false" />
+19-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:66-90
+20    <uses-feature
+20-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-89
+21        android:name="android.hardware.camera.front"
+21-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-61
+22        android:required="false" />
+22-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:62-86
+23    <uses-feature
+23-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-88
+24        android:name="android.hardware.touchscreen"
+24-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-60
+25        android:required="false" />
+25-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:61-85
+26    <uses-feature
+26-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-99
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-71
+28        android:required="false" />
+28-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:72-96
+29    <uses-feature
+29-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-108
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-80
+31        android:required="false" />
+31-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:81-105
+32
+33    <application android:extractNativeLibs="true" >
+33-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-28:17
+33-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+34        <meta-data
+34-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-69
+35            android:name="unity.splash-mode"
+35-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+36            android:value="0" />
+36-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-66
+37        <meta-data
+37-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-74
+38            android:name="unity.splash-enable"
+38-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-50
+39            android:value="True" />
+39-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:51-71
+40        <meta-data
+40-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-78
+41            android:name="unity.launch-fullscreen"
+41-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+42            android:value="True" />
+42-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:55-75
+43        <meta-data
+43-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+44            android:name="unity.render-outside-safearea"
+44-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+45            android:value="True" />
+45-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+46        <meta-data
+46-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+47            android:name="notch.config"
+47-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+48            android:value="portrait|landscape" />
+48-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+49        <meta-data
+49-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+50            android:name="unity.auto-report-fully-drawn"
+50-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-60
+51            android:value="true" />
+51-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:61-81
+52
+53        <activity
+53-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-26:16
+54            android:name="com.unity3d.player.UnityPlayerActivity"
+54-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:15-68
+55            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+55-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:180-361
+56            android:exported="true"
+56-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:433-456
+57            android:hardwareAccelerated="false"
+57-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:397-432
+58            android:launchMode="singleTask"
+58-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:148-179
+59            android:resizeableActivity="false"
+59-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:362-396
+60            android:screenOrientation="fullUser"
+60-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:111-147
+61            android:theme="@style/UnityThemeSelector" >
+61-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:69-110
+62            <intent-filter>
+62-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-23:23
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-69
+63-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-66
+64
+65                <action android:name="android.intent.action.MAIN" />
+65-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-61
+65-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-58
+66            </intent-filter>
+67
+68            <meta-data
+68-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-82
+69                android:name="unityplayer.UnityActivity"
+69-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-58
+70                android:value="true" />
+70-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:59-79
+71            <meta-data
+71-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-70
+72                android:name="notch_support"
+72-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-46
+73                android:value="true" />
+73-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:47-67
+74        </activity>
+75
+76        <meta-data
+76-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-77
+77            android:name="com.google.ar.core"
+77-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-49
+78            android:value="optional" />
+78-->L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:50-74
+79    </application>
+80
+81</manifest>

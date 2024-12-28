@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,com.google.ar:core:1.36.0@aar,:VuforiaEngine:@aar,androidx.annotation:annotation:1.3.0@jar">
+    <dependency
+        name="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="com.google.ar:core:1.36.0@aar"
+        simpleName="com.google.ar:core"/>
+    <dependency
+        name=":VuforiaEngine:@aar"
+        simpleName=":VuforiaEngine"/>
+    <dependency
+        name="androidx.annotation:annotation:1.3.0@jar"
+        simpleName="androidx.annotation:annotation"/>
+  </package>
+</dependencies>

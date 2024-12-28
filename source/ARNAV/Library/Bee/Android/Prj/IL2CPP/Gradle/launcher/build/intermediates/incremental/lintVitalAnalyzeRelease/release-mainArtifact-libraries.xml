@@ -1,0 +1,49 @@
+<libraries>
+  <library
+      name="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\795409ce4bb53861b6038cb7dd53a871\transformed\out\jars\classes.jar;L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\795409ce4bb53861b6038cb7dd53a871\transformed\out\jars\libs\R.jar;L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\795409ce4bb53861b6038cb7dd53a871\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\795409ce4bb53861b6038cb7dd53a871\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="com.google.ar:core:1.36.0@aar"
+      jars="C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\jars\classes.jar"
+      resolved="com.google.ar:core:1.36.0"
+      folder="C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":VuforiaEngine:@aar"
+      jars="C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\jars\classes.jar;C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\jars\libs\VuforiaEngine.jar;C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\jars\libs\VuforiaUnityPlayer.jar"
+      resolved=":VuforiaEngine:"
+      folder="C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.annotation:annotation:1.3.0@jar"
+      jars="C:\Users\Lut Lat Aung\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.3.0\21f49f5f9b85fc49de712539f79123119740595\annotation-1.3.0.jar"
+      resolved="androidx.annotation:annotation:1.3.0"/>
+</libraries>

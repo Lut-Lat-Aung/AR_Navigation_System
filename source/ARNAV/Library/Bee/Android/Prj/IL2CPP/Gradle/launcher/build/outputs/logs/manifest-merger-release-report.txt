@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-81:12
+MERGED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:8:1-40:12
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:2:1-36:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:117-157
+application
+ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-79:19
+MERGED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-79:19
+MERGED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:24:5-38:19
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:24:5-34:19
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:24:5-34:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:18-50
+	android:label
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:16:5-18:41
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:5:5-44
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-62
+uses-feature#0x00030000
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+		MERGED from L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:33
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-30
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:36
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-51
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:36
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:9-48:50
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-47
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:9-51:36
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:9-74:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-48
+	android:exported
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-194
+	android:theme
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-54
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-66:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:13-70:40
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-37
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:13-73:40
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-37
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:17-45
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:9-78:40
+	android:value
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from [:unityLibrary] L:\Vuforia\AR-Nav\ARNAV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:13-46
+queries
+ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:20:5-22:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:21:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:27:9-29:41
+	android:value
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:29:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:28:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:32:13-62
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:22:22-64
+provider#com.vuforia.engine.app.VuforiaContentProvider
+ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:27:13-65
+	android:exported
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:26:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:30:13-32:53
+	android:resource
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:32:17-50
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Lut Lat Aung\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\AndroidManifest.xml:31:17-67

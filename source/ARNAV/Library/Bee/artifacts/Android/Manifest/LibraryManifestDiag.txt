@@ -1,0 +1,14 @@
+Using template 'C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+android.permission.CAMERA, android.hardware.camera (Auto Focus, Front) were added because:
+	UnityEngine.WebCamTexture was present in:
+		Vuforia.Unity.Engine-FeaturesChecked.txt
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+		Vuforia.Unity.Engine-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+		Vuforia.Unity.Engine-FeaturesChecked.txt
