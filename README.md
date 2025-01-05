@@ -48,7 +48,7 @@ _Screenshot showing the notification upon reaching the destination._
 
 ## **Beta Test Recording**
 
-![Watch the video](https://assumptionuniversity-my.sharepoint.com/:v:/g/personal/u6520242_au_edu/EROcp4ibFsxPrrAGiJYkq_ABJDK3x0MoDkS540QtE_W01Q?e=jag3O4)
+[![Watch the video](https://img.youtube.com/vi/placeholder/0.jpg)](https://assumptionuniversity-my.sharepoint.com/:v:/g/personal/u6520242_au_edu/EROcp4ibFsxPrrAGiJYkq_ABJDK3x0MoDkS540QtE_W01Q?e=6eg5iK)
 
 > _Click the image to watch the beta test video._
 
