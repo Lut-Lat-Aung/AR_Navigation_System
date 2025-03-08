@@ -32,22 +32,22 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 
 ## **Screenshots**
 
-### **1. Floor Detection and Navigation**
-_Screenshot of the QR scanning process and navigation start._
+
+### **1. Home UI**
+
+![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Home.png)
 
 ### **2. Path Visualization**
-_Screenshot showing the AR path guiding the user._
+![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Navigation.png)
 
 ### **3. Arrival Notification**
-_Screenshot showing the notification upon reaching the destination._
+![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Arrival_Notification.png)
 
 ---
 
 ## **Beta Test Recording**
 
-[![Watch the video](https://img.youtube.com/vi/placeholder/0.jpg)](https://assumptionuniversity-my.sharepoint.com/:v:/g/personal/u6520242_au_edu/EROcp4ibFsxPrrAGiJYkq_ABJDK3x0MoDkS540QtE_W01Q?e=6eg5iK)
-
-> _Click the image to watch the beta test video._
+https://github.com/user-attachments/assets/919e27a5-6ccc-411e-a1a2-1ee9d0ff9bfc
 
 ---
 
