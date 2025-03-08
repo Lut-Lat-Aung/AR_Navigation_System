@@ -28,9 +28,6 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 - **Dynamic Scene Switching**  
   Switches to the correct scene for the floor based on QR code input.
 
-- **Object Freezing (Lock Functionality)**  
-  Allows freezing of game objects after scanning to avoid misalignment in identical-looking environments.
-
 ---
 
 ## **Screenshots**
