@@ -45,9 +45,9 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 
 ---
 
-## **Beta Test Recording**
+## **App Demo Recording**
 
-https://github.com/user-attachments/assets/919e27a5-6ccc-411e-a1a2-1ee9d0ff9bfc
+[![IMAGE ALT TEXT HERE](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Video.png)](https://youtu.be/9fWGtmKCJMo?si=u8yac3LsYyJPuCQc)
 
 ---
 
