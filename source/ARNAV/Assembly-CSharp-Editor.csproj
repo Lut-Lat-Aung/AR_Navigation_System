@@ -63,14 +63,68 @@
     <Compile Include="Assets\Editor\Migration\AddVuforiaEnginePackage.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Editor\Vuforia\undergroundindoor1\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\5thfloor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thFloor-elevatorfinal\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground-update-stair\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\taxi-stand\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\msme\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-waypath2\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1stfloor-toilet-turn\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thfloor-elevatormain\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\elevatorendhall\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\3floor-left-start\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\truelabhall\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground2-2\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\8thfloor_right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1floor-elevator-to-exit-part3\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\msme-building\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\8thfloor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\5thfloor-left\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground2-3\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\2ndfloorturn\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\4th-floor-left\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\1stfloor-left\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\4floor-left\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\3floor-left\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground1\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\TutorRoom\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\9thfloor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-waypath4\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\rightside-firstfloor\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\undergroundindoor2\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thfloor-meetpointhallfinal\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\7th_left\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\Toilet-firstfloor\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-left\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1stFloor-Auditorium\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground2-1\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1stfloor-leftfull\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\2ndfloor207\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\Mechatronic\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1stFloor-pendulum\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\TrueLab\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-waypath5\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-waypath1\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thfloor-elevatorone\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\10thfloor-waypath\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thfloor-elevatorturn\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\6thfloor-elevatortwo\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\3floor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\5thfloor-turnpoint\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1floor-elevator-part2\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\1stFloor-MG\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\4thfloor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\2ndflooroffice\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\7th_right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground2\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\4th-floor-right\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\9thfloor-left1\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\underground3\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\2ndfloorelevator\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\allfloor\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\undergroundstair\authoringinfo.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1033,6 +1087,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Nobi.UiRoundedCorners">
+      <HintPath>Library\ScriptAssemblies\Nobi.UiRoundedCorners.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1107,6 +1165,10 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nobi.UiRoundedCorners.Editor">
+      <HintPath>Library\ScriptAssemblies\Nobi.UiRoundedCorners.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">

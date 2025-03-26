@@ -61,43 +61,108 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DestinationSelector.cs" />
+    <Compile Include="Assets\Scripts\ExitApp.cs" />
     <Compile Include="Assets\Scripts\NotificationController.cs" />
+    <Compile Include="Assets\Scripts\SceneLockManager.cs" />
+    <Compile Include="Assets\Scripts\UserNotification.cs" />
+    <Compile Include="Assets\Scripts\TrackingReset.cs" />
+    <Compile Include="Assets\Scripts\ToggleButtonColor.cs" />
+    <Compile Include="Assets\Scripts\ArrowPointer.cs" />
     <Compile Include="Assets\Scripts\ARPathVisualizer.cs" />
+    <Compile Include="Assets\Scripts\SceneChanger.cs" />
+    <Compile Include="Assets\Scripts\SearchScript.cs" />
+    <Compile Include="Assets\Scripts\NestedDropdown.cs" />
     <Compile Include="Assets\Scripts\FloorManager.cs" />
+    <Compile Include="Assets\Scripts\MultiArea.cs" />
+    <Compile Include="Assets\Scripts\FreezeTracking.cs" />
+    <Compile Include="Assets\Scripts\AreaTargetVisible.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\StreamingAssets\Vuforia\5thfloor-right.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\1stfloor-leftfull.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\7th_right.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-waypath5.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thfloor-elevatortwo.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground1.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-left.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground3.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-waypath2.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\4floor-left.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\StreamingAssets\Vuforia\FloorTargets.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\undergroundindoor1.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\2ndflooroffice.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\1stfloor-toilet-turn.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\FloorTargets.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\1stfloor-left.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\8thfloor-right.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\5thfloor-turnpoint.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thfloor-elevatorturn.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thfloor-elevatorone.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\1floor-elevator-part2.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground2.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-waypath4.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\elevatorendhall.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\undergroundindoor2.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\2ndfloorturn.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\9thfloor-left1.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thfloor-elevatormain.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\1stFloor-Auditorium.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground2-3.xml" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\TrueLab.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground2-1.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\9thfloor-right.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\StreamingAssets\Vuforia\1stFloor-pendulum.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\3floor-right.xml" />
     <None Include="Assets\Shader\DepthMask.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\StreamingAssets\Vuforia\rightside-firstfloor.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\msme-building.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\4thfloor-right.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thFloor-elevatorfinal.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground2-2.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\8thfloor_right.xml" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\StreamingAssets\Vuforia\2ndfloorelevator.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\undergroundstair.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\Toilet-firstfloor.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\3floor-left-start.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\6thfloor-meetpointhallfinal.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\allfloor.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\DummyImages.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\underground-update-stair.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\4th-floor-right.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\TutorRoom.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\taxi-stand.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\Mechatronic.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-waypath.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\truelabhall.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\4th-floor-left.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\3floor-left.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\msme.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-right.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\7th_left.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\10thfloor-waypath1.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\1stFloor-MG.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\5thfloor-left.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\2ndfloor207.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -972,6 +1037,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Nobi.UiRoundedCorners">
+      <HintPath>Library\ScriptAssemblies\Nobi.UiRoundedCorners.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1046,6 +1115,10 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nobi.UiRoundedCorners.Editor">
+      <HintPath>Library\ScriptAssemblies\Nobi.UiRoundedCorners.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
