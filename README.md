@@ -33,21 +33,17 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 ## **Screenshots**
 
 
-### **1. Home UI**
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Home UI** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Path Visualization** &nbsp; &nbsp; &nbsp; &nbsp; **Arrival Notification**
+<img src="https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Home.png" width="220" height="410"/><img src="https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Navigation.png" width="200" height="400"/>
+<img src="https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Arrival_Notification.png" width="200" height="400"/>
 
-![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Home.png)
-
-### **2. Path Visualization**
-![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Navigation.png)
-
-### **3. Arrival Notification**
-![Alt text](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Arrival_Notification.png)
 
 ---
 
 ## **App Demo Recording**
 
-[![IMAGE ALT TEXT HERE](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Video.png)](https://youtu.be/9fWGtmKCJMo?si=u8yac3LsYyJPuCQc)
+
+[![User Tutorial Video](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Video.png)](https://youtu.be/9fWGtmKCJMo?si=u8yac3LsYyJPuCQc)
 
 ---
 
@@ -58,8 +54,37 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 - Vuforia Engine SDK
 - Android/iOS Device for testing
 
+### **2. Tech Stack**
+- Unity (Logical Implementation and UI)
+- Vuforia (Area tracking & Localization)
+- Vuforia Creator (Scanning Input resources) (Dev tool)
+- Xcode (IOS development)
 
-    
+### **Beta Version of AR NAV**
+
+AR Nav app is available for both android and IOS
+
+#### **Requirements**
+IOS
+
+- IOS phone with Lidar sensor (Iphone / Ipad pro versions)
+- IOS version 11+
+
+Android
+
+- Android phone with Lidar sensor
+- Every Android versions
+
+IOS download is available with testflight. You have to download testflight first to install beta version of AR Nav. Simply click the IOS download link if you want to download.
+
+IOS download - [Click to download](https://testflight.apple.com/join/apKAWMTP)
+
+Android download is available for every andorid versions. Click the download link and install the .apk file from Google drive.
+
+Android download - [Click to download](https://drive.google.com/file/d/1o8ztOEwgA84EEVaROgIJPASbRAT45xjf/view?usp=sharing)
+
+## **Developer Team**
+
 Team Name : Path_Finder
 
 Team Member :
@@ -69,3 +94,6 @@ Lut Lat Aung (https://github.com/Lut-Lat-Aung)
 Myat Min Phyo (https://github.com/stefanmxm)
 
 Yel Lin (https://github.com/YelLin21)
+
+Download AR Nav Report here - [Click to download](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/AR%20NAV%20Report.pdf)
+
