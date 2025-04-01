@@ -10,6 +10,25 @@ We actively maintain and support the following versions of AR NAV:
 | 2.0     | ✅ Yes         |
 | 1.0     | ❌ No          |
 
+### Beta Version
+IOS
+
+- IOS phone with Lidar sensor (Iphone / Ipad pro versions)
+- IOS version 11+
+
+Android
+
+- Android phone with Lidar sensor
+- Every Android versions
+
+IOS download is available with testflight. You have to download testflight first to install beta version of AR Nav. Simply click the IOS download link if you want to download.
+
+IOS download - [Click to download](https://testflight.apple.com/join/apKAWMTP)
+
+Android download is available for every andorid versions. Click the download link and install the .apk file from Google drive.
+
+Android download - [Click to download](https://drive.google.com/file/d/1o8ztOEwgA84EEVaROgIJPASbRAT45xjf/view?usp=sharing)
+
 We recommend always using the latest stable version for the best security and performance.
 
 ## Reporting a Vulnerability
@@ -30,7 +49,7 @@ When reporting a vulnerability, please provide:
 ## Security Best Practices
 To ensure security while using AR NAV:
 - Always use the latest version.
-- Avoid running the application with unnecessary permissions.
+- Avoid running the application with unnecessary permissions except the camera permission.
 - Follow best practices for handling sensitive data.
 
 ## Security Updates
