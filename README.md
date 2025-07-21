@@ -60,7 +60,7 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 - Vuforia Creator (Scanning Input resources) (Dev tool)
 - Xcode (IOS development)
 
-### **Beta Version of AR NAV**
+## **Beta Version of AR NAV**
 
 AR Nav app is available for both android and IOS
 
