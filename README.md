@@ -77,11 +77,11 @@ Android
 
 IOS download is available with testflight. You have to download testflight first to install beta version of AR Nav. Simply click the IOS download link if you want to download.
 
-IOS download - [Click to download](https://testflight.apple.com/join/apKAWMTP)
+IOS download - [Click to download](https://testflight.apple.com/join/qvdZVR3v)
 
 Android download is available for every andorid versions. Click the download link and install the .apk file from Google drive.
 
-Android download - [Click to download](https://drive.google.com/file/d/1o8ztOEwgA84EEVaROgIJPASbRAT45xjf/view?usp=sharing)
+Android download - [Click to download](https://drive.google.com/file/d/1wEN0CHdIwao-zluGeZdgZs9JKdZmF5o0/view?pli=1)
 
 ## **Developer Team**
 
