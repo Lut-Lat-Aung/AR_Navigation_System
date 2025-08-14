@@ -1,18 +1,26 @@
 
 # **AR Indoor Navigation System**
-Senior Project I (2/2024)
-------------------------------------------
+
 Project Name : AR Nav
 
 An **Augmented Reality Indoor Navigation System** using Unity and Vuforia to guide users within buildings using AR markers, navigation lines, and arrival notifications.
 
----
+## Table of Contents
 
-## **Project Overview**
+1. [Overview](#overview)  
+2. [Features](#features)  
+3. [Screenshots](#screenshots)
+4. [App Demo Recording](#app-demo-recording)
+5. [Setup Instructions](#setup-instructions)  
+6. [Beta Version](#beta-version-of-ar-nav)  
+7. [Team](#developer-team)
+8. [Report](#report)  
+
+## **Overview**
 
 This project leverages Unity, Vuforia Area Targets, and QR code scanning to provide an interactive indoor navigation experience. Users can navigate between different rooms and floors of a building, guided by AR visualizations such as arrows and lines.
 
----
+
 
 ## **Features**
 
@@ -28,7 +36,6 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 - **Dynamic Scene Switching**  
   Switches to the correct scene for the floor based on QR code input.
 
----
 
 ## **Screenshots**
 
@@ -38,14 +45,11 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 <img src="https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Arrival_Notification.png" width="200" height="400"/>
 
 
----
-
 ## **App Demo Recording**
 
 
 [![User Tutorial Video](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/Video.png)](https://youtu.be/9fWGtmKCJMo?si=u8yac3LsYyJPuCQc)
 
----
 
 ## **Setup Instructions**
 
@@ -64,7 +68,7 @@ This project leverages Unity, Vuforia Area Targets, and QR code scanning to prov
 
 AR Nav app is available for both android and IOS
 
-#### **Requirements**
+#### **Installation**
 IOS
 
 - IOS phone with Lidar sensor (Iphone / Ipad pro versions)
@@ -94,6 +98,8 @@ Lut Lat Aung (https://github.com/Lut-Lat-Aung)
 Myat Min Phyo (https://github.com/stefanmxm)
 
 Yel Lin (https://github.com/YelLin21)
+
+## **Report**
 
 Download AR Nav Report here - [Click to download](https://github.com/Lut-Lat-Aung/AR_Navigation_System/blob/main/images/AR%20NAV%20Report.pdf)
 
